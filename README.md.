@@ -1,0 +1,51 @@
+# CSC1101 Structured Programming – GitHub Practice Assignment
+
+## Student Information
+
+**Course:** CSC1101 – Structured Programming  
+**Assignment:** C Programming Practice, Documentation and GitHub Submission  
+**Repository:** structured-programming-practice  
+
+## Introduction
+
+This repository contains eight C programming exercises developed for the CSC1101 Structured Programming course.
+
+The programs demonstrate important programming concepts including output, user input, arithmetic operations, decision-making, loops, calculations, counters and interactive console menus.
+
+Each program was written, tested and organised according to the programming categories provided in the assignment.
+
+The textbook used as a reference is:
+
+**Deitel & Deitel, C How to Program, 9th Edition.**
+
+---
+
+# Program 1 – Basic Output
+
+## Category
+Basic Output
+
+## Textbook Reference
+Deitel & Deitel, C How to Program, 9th Edition, Chapter __, Exercise __.
+
+## What the Program Does
+
+This program demonstrates how to display clear information on the screen using the `printf()` statement.
+
+The program displays a simple message or information to the user through the console.
+
+## Concepts Used
+
+- `printf()`
+- Basic C program structure
+- Console output
+- `main()` function
+
+## How It Works
+
+The program starts from the `main()` function. It uses the `printf()` statement to display information on the screen. After displaying the required output, the program ends.
+
+## Example Run
+
+```text
+Welcome to CSC1101 Structured Programming!
